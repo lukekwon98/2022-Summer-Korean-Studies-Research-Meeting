@@ -2,6 +2,6 @@
 
 2022 06 ~ 2022 08
 
-Prof. Eun Kyung Jo
+Instructor: Prof. Eun Kyung Jo
 
 Twitter Crawling, Wordclouds, Linguistcs etc
